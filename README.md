@@ -1,5 +1,5 @@
 # EyeTrack2Scene
-EyeTrack2Scene is a Python-based tool designed to map eye-tracking data to movie viewing data of subjects. By integrating advanced video segmentation using a panoptic model, this project enables precise analysis of where viewers focus during film playback. This repository also incorporates a collaborative panoptic model developed by Friend's Name or GitHub Handle, which significantly enhances video segmentation accuracy .Currently, the tool supports eye-tracking data in the ASCII format exported from EyeLink 1000 systems (https://www.sr-research.com/software/).
+EyeTrack2Scene is a Python-based tool designed to map eye-tracking data to movie viewing data of subjects. By integrating advanced video segmentation using a panoptic model, this project enables precise analysis of where viewers focus during film playback. This repository also incorporates a collaborative panoptic model developed by (https://github.com/vant7e), which significantly enhances video segmentation accuracy .Currently, the tool supports eye-tracking data in the ASCII format exported from EyeLink 1000 systems (https://www.sr-research.com/software/).
 
 ![Screenshot from 2024-11-17 00-17-43](https://github.com/user-attachments/assets/337960d1-214c-4463-adab-c0a547f69d9e)
 
