@@ -8,7 +8,7 @@ The eye-tracking data provides spatial coordinates from fixation events (denoted
 
 ![Screenshot from 2024-11-17 00-19-53](https://github.com/user-attachments/assets/2b8b2f6f-2e93-4ac1-b99e-940aacbd8596)
 
-## Example - Frame 1, 0.06 seconds into the movie
+## Example: Frame 1, 0.06 seconds into the movie
 
 ![Screenshot from 2024-11-17 00-18-37](https://github.com/user-attachments/assets/90bef6ff-f6da-4148-9f4b-305b5a06e884)
 
